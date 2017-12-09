@@ -1,0 +1,23 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "boundary",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.tabSize": 2,
+    "editor.lineHeight": 28,
+    "vsicons.presets.hideFolders": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.panel.location": "bottom",
+    "window.zoomLevel": 0,
+    "terminal.integrated.scrollback": 10000,
+    "terminal.integrated.fontSize": 14,
+    "terminal.external.osxExec": "iTerm.app",
+    "files.autoSave": "off"
+  }
