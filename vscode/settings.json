@@ -9,7 +9,7 @@
     "editor.lineHeight": 28,
     "vsicons.presets.hideFolders": true,
     "workbench.activityBar.visible": false,
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.colorTheme": "One Dark Pro Vivid",
     "window.zoomLevel": 0,
@@ -20,17 +20,6 @@
     "editor.rulers": [
       80
     ],
-    "emmet.syntaxProfiles": {
-      "javascript": "jsx",
-      "xml": {
-        "attr_quotes": "single"
-      }
-    },
-    "emmet.triggerExpansionOnTab": true,
-    "materialTheme.cache.workbench.settings": {
-      "themeColours": "Palenight",
-      "accent": "Cyan"
-    },
     "workbench.colorCustomizations": {
       "activityBarBadge.background": "#00BCD4",
       "list.activeSelectionForeground": "#00BCD4",
@@ -45,5 +34,5 @@
     },
     "workbench.iconTheme": "vscode-icons",
     "extensions.ignoreRecommendations": false,
-    "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -javaagent:\"/Users/rubens/.vscode/extensions/GabrielBB.vscode-lombok-0.9.2/server/lombok.jar\" -Xbootclasspath/a:\"/Users/rubens/.vscode/extensions/GabrielBB.vscode-lombok-0.9.2/server/lombok.jar\""
+    "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -javaagent:\"/Users/rubens/.vscode/extensions/GabrielBB.vscode-lombok-0.9.4/server/lombok.jar\" -Xbootclasspath/a:\"/Users/rubens/.vscode/extensions/GabrielBB.vscode-lombok-0.9.4/server/lombok.jar\""
   }
